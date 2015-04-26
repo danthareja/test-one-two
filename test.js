@@ -1,3 +1,3 @@
 function myFunction() {
-  Logger.log('cheers!');
+  Logger.log('chesdfers!');
 }
