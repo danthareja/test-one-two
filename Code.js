@@ -3,5 +3,5 @@ function myFunction() {
 }
 
 function myNewFunction() {
- Logger.log('chekc it');
+ Logger.log('cheasdfit');
 }
